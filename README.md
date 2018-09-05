@@ -147,7 +147,11 @@ context  上下文这个不用多说，name数据库的名字，cursorFactory �
 (4) 查
  
   loadAll()：查询所有记录
+  
   load(Long key)：根据主键查询一条记录
+  
   queryBuilder().list()：返回：List
+  
   queryBuilder().where(UserDao.Properties.Name.eq("")).list()：返回：List
+  
   queryRaw(String where,String selectionArg)：返回：List
