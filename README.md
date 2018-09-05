@@ -127,7 +127,7 @@ context  上下文这个不用多说，name数据库的名字，cursorFactory �
 
   insert(User entity)：插入一条记录
  
-   ![enter description here](./images/1536131900898.png)
+   ![enter description here](https://github.com/SophieBryant/GreenDao/blob/master/zeng.png)
  
 
 (2) 删
@@ -136,13 +136,13 @@ context  上下文这个不用多说，name数据库的名字，cursorFactory �
   delete(User entity) ：根据实体类删除一条记录，一般结合查询方法，查询出一条记录之后删除。
   deleteAll()： 删除所有记录。
  
-  ![enter description here](./images/1536132240954.png)
+  ![enter description here](https://github.com/SophieBryant/GreenDao/blob/master/shan.png)
 
 (3) 改
 
   update(User entity)：更新一条记录
 
-  ![enter description here](./images/1536132285776.png)
+  ![enter description here](https://github.com/SophieBryant/GreenDao/blob/master/gai.png)
 
 (4) 查
  
